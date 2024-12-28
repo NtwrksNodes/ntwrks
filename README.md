@@ -1,17 +1,30 @@
 
-# ntwrks
 
-> Distributed network protocol using four integrated models for collaborative computation and self-organizing node behavior
+  <h1>ntwrks</h1>
+  <p>Distributed network protocol using four integrated models for collaborative computation</p>
+</div>
 
-![ntwrks core](https://img.shields.io/badge/ntwrks-core-black?style=flat-square) ![Version](https://img.shields.io/badge/version-0.8.2-blue?style=flat-square) ![Coverage](https://img.shields.io/badge/coverage-94%25-brightgreen?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-5.2-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MIT License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![image](https://github.com/user-attachments/assets/0a11c56a-bb1b-4851-81f5-bf3277b1c3b0)
+<div align="center">
+  
+  [![Twitter Follow](https://img.shields.io/twitter/follow/NtwrksNodes?style=social)](https://twitter.com/NtwrksNodes)
+  ![GitHub Stars](https://img.shields.io/github/stars/ntwrks/core?style=social)
+  [![Website](https://img.shields.io/badge/website-ntwrks.io-blue)](https://ntwrks.io)
+  
+</div>
 
-ntwrks.io
+---
+
+![image](https://github.com/user-attachments/assets/b50e2e3a-9529-4c98-9fc8-21ba13c4204d)
+
+
+## Overview
+
+ntwrks is a sophisticated distributed network protocol that leverages four integrated models to enable collaborative computation and self-organizing node behavior.
 
 ## Core Models
 
 ### Network Mesh
-Decentralized network topology
+Decentralized topology for resilient networking
 - Nodes: 50-120
 - Latency: 45-85ms
 - Throughput: 550-1500 MB/s
@@ -33,6 +46,8 @@ Advanced quantum algorithms
 - Q-Bits: 32-128
 - Coherence: 100-500μs
 - Fidelity: 99.9%
+
+![image](https://github.com/user-attachments/assets/e36c783e-6c6b-44bf-b5fb-4afb0e5170ad)
 
 ## Quick Start
 
